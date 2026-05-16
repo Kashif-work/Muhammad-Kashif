@@ -51,13 +51,13 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-* Machine Learning Workflows
-* Ensemble Learning
-* Hyperparameter Tuning
-* Real-world Data Preprocessing
-* Advanced Time Series Forecasting
+- Deep Learning
+- NLP (Natural Language Processing)
+- Kaggle Projects
+- Model Deployment
+- Advanced AI Applications
 
 ---
 
