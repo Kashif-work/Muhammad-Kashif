@@ -7,11 +7,15 @@
 
 ## 🚀 About Me
 
-* 📊 Passionate about Data Science and Machine Learning
-* 🧠 Building real-world ML and analytics projects step by step
-* 📚 Currently learning advanced Machine Learning workflows and model optimization
-* 💡 Interested in solving real-world problems using data-driven approaches
-* 🎯 Focused on becoming job-ready through consistent practical learning
+📊 Passionate about Data Science, Machine Learning, and AI-driven solutions
+🧠 Building real-world analytics and predictive modeling projects
+📚 Exploring advanced Machine Learning workflows, optimization techniques, and real-world AI applications
+💡 Interested in solving complex problems through data-driven insights
+🚀 Focused on continuous growth, practical learning, and scalable ML solutions
+
+## 🎓 Education
+
+- Bachelor’s in Information Technology
 
 ---
 
