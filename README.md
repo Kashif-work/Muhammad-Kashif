@@ -1,17 +1,19 @@
 # Hi there 👋
 
 <h1 align="center">Muhammad Kashif</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning | Data Analytics | Python</h3>
+<h3 align="center">Data Scientist | Machine Learning | Deep Learning | Data Analytics | Python</h3>
 
 ---
 
 ## 🚀 About Me
 
-📊 Passionate about Data Science, Machine Learning, and AI-driven solutions
-🧠 Building real-world analytics and predictive modeling projects
-📚 Exploring advanced Machine Learning workflows, optimization techniques, and real-world AI applications
-💡 Interested in solving complex problems through data-driven insights
-🚀 Focused on continuous growth, practical learning, and scalable ML solutions
+📊 Data Scientist focused on solving real-world problems using Machine Learning and Data Analytics  
+🧠 Experienced in building end-to-end case studies and machine learning projects  
+📚 Strong understanding of Advanced Machine Learning, Deep Learning, and Data-driven systems  
+💡 Passionate about transforming raw data into actionable business insights  
+🚀 Focused on building scalable, production-ready AI solutions
+
+---
 
 ## 🎓 Education
 
@@ -22,13 +24,11 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Data
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### Data Science & Machine Learning
-
+### Machine Learning & AI
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -36,32 +36,20 @@
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
 </p>
 
-### Tools & Platforms
-
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" />
 </p>
 
 ---
 
-## 📂 Featured Repositories
+## 📊 Current Focus
 
-| Repository                  | Description                                               |
-| --------------------------- | --------------------------------------------------------- |
-| 📘 Data Science Journey     | Complete learning journey from Python to Machine Learning |
-| 📈 Time Series Analysis     | Forecasting, trends, and moving averages                  |
-| 🤖 Machine Learning Journey | Regression, classification, ensemble learning             |
-| 📊 Data Analysis Projects   | EDA, cleaning, visualization, statistics                  |
-
----
-
-## 📚 Currently Exploring
-
-- Deep Learning
-- NLP (Natural Language Processing)
-- Kaggle Projects
-- Model Deployment
-- Advanced AI Applications
+- Advanced Machine Learning (Model Optimization, Ensemble Methods)
+- Deep Learning (Neural Networks, CNNs)
+- Feature Engineering & Data Pipelines
+- End-to-End Case Studies & Real-world Projects
+- Model Evaluation & Performance Tuning
 
 ---
 
@@ -94,10 +82,10 @@
 
 ## 💡 Philosophy
 
-> Consistency beats intensity. Building skills one real-world project at a time.
+> “Real expertise is built through consistent practice and real-world problem solving.”
 
 ---
 
 <p align="center">
-  ⭐ Always learning, building, and improving step by step.
+⭐ Building strong, production-level data science skills step by step.
 </p>
